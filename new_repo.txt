@@ -1,0 +1,273 @@
+    1  git
+    2  git init
+    3  ls
+    4  cd Jupyter/
+    5  ls
+    6  git init
+    7  git add
+    8  git add .
+    9  git status
+   10  git commit -m "Add jupyter notebook 
+   11   
+   12  defind avarage function"
+   13  ls
+   14  cat gitignore 
+   15  vi .gitignore
+   16  la
+   17  ls
+   18  cat gitignore 
+   19  ls -a - 
+   20  ls -a 
+   21  commit -m "First commit"
+   22  git commit -m "First commit"
+   23  git init
+   24  git commit -m "First commit"
+   25  git status
+   26  git add .gitignore 
+   27  git status
+   28  git remote add origin https://github.com/Robby0007/as9.git
+   29  git push -u origin master
+   30  git remote add origin https://github.com/Robby0007/as9
+   31  git push -u origin master
+   32  vi passwords
+   33  ls
+   34  vi .gitignore 
+   35  git remote origin
+   36  git remote add origin https://github.com/Robby0007/as9
+   37  get add *
+   38  git add *
+   39  rm gitignore 
+   40  ls
+   41  ls -a
+   42  get add *
+   43  git add *
+   44  git status
+   45  git status
+   46  ls
+   47  ls -a
+   48  vi .gitignore 
+   49  git remote add origin https://github.com/Robby0007/as9
+   50  git add *
+   51  git add * -f
+   52  echo "# as9" >> README.md
+   53  git init
+   54  git add README.md 
+   55  git commit -m "first commit"
+   56  git remote add origin https://github.com/Robby0007/as9.git
+   57  git push -u origin master
+   58  cd ..
+   59  ls
+   60  mkdir jup
+   61  cd jup
+   62  ls
+   63  echo "# as9" >> README.md
+   64  git init
+   65  git add README.md
+   66  git commit -m "first commit"
+   67  git remote add origin https://github.com/Robby0007/as9.git
+   68  git push -u origin master
+   69   git config --global user.name "Robby"
+   70  git commit -m "first commit"
+   71    git config --global user.email "you@example.com"
+   72    git config --global user.email "you@example.com"
+   73    git config --global user.email "vlodek.dudek@gmail.com"
+   74  git commit -m "first commit"
+   75  git push -u origin master
+   76  git remote add origin https://github.com/Robby0007/as9.git
+   77   git config --global user.name "Robby0007"
+   78  git push -u origin master
+   79  juniper notebook
+   80  junyper notebook
+   81  juypter notebook
+   82  jupyter notebook
+   83  ls
+   84  git add fir.ipynb 
+   85  git commit -m "first lab addddded"
+   86  git add *
+   87  git push -u origin master
+   88  git status
+   89  git log
+   90  git add .gitignore
+   91  ls 
+   92  ls -a
+   93  history
+   94  history > his.txt
+   95  ls
+   96  vi .gitignore
+   97  ls
+   98  ls -a
+   99  git add .gitignore 
+  100  git commit -m "gitignore addded"
+  101  git push -u origin master
+  102  ls
+  103  vi password
+  104  git status
+  105  git add .
+  106  git status
+  107  git log --online
+  108  git log --oneline
+  109  git checkout 03c9f39
+  110  cat .config
+  111  cd .git
+  112  ls
+  113  cat .config
+  114  cat config 
+  115  cd ..
+  116  jupyter notebook
+  117  git add .gitignore 
+  118  git status
+  119  git add *
+  120  git statu
+  121  git status
+  122  git add .
+  123  git status
+  124  git push
+  125  git push -u origin master
+  126  git add *
+  127  git push -u origin master
+  128  git add * -f
+  129  git push -u origin master
+  130  ls
+  131  git add labtest1.ipynb 
+  132  git push -u origin master
+  133  git commit
+  134  git push -u origin master
+  135  git status
+  136  git commit -m "add new lab"
+  137  git push -u origin master
+  138  git remote add origin https://github.com/Robby0007/as9.git
+  139  history > hist3.txt
+  140  ls
+  141  cd ..
+  142  ls
+  143  cd admin
+  144  ls
+  145  cd ..
+  146  cd Admin/
+  147  ls
+  148  mkdir Jupyter
+  149  cd Jupyter/
+  150  ls
+  151  jupyter notebook
+  152  q
+  153  e
+  154  ls
+  155  git init
+  156  git add
+  157  help git
+  158  git
+  159  vi gitignore
+  160  ls
+  161  git
+  162  git init
+  163  jupyter notebook
+  164  git
+  165  git init
+  166  vi
+  167  git
+  168  git
+  169  git init
+  170  jupyter notebook
+  171  jupyter notebook
+  172  jupyter notebook
+  173  jupyter notebook
+  174  ls
+  175  git add CA_practise_1.ipynb 
+  176  git push
+  177  git remote add origin https://github.com/Robby0007/as9
+  178  git push origin
+  179  git push 
+  180  ls
+  181  cd ..
+  182  ls
+  183  cd ..
+  184  ls
+  185  cd home/
+  186  ls
+  187  cd Admin/
+  188  ls
+  189  git status
+  190  git add CA_practise_1.ipynb 
+  191  git commit
+  192  ls
+  193  git status
+  194  ls
+  195  git status
+  196  git push
+  197  git push --set-origin
+  198  git push --set-upstream origin master
+  199  git push --set-https://github.com/Robby0007/as9
+  200  git push --set-https://github.com/Robby0007/as9 --repo
+  201  git commit
+  202  git commit
+  203  ls
+  204  git init
+  205  git commit -m "first commit"
+  206   git remote add origin https://github.com/Robby0007/as9.git
+  207  git push -u origin master
+  208  git config --global user.name "Robby"
+  209  git config --global user.email "vlodek.dudek@gmail.com"
+  210   git config --global user.name "Robby0007"
+  211    git push -u origin master
+  212  git add CA_practise_1.ipynb 
+  213  commit -m "ca practice added"
+  214  git commit -m "ca practice added"
+  215  git push
+  216  git commit
+  217  git add CA_practise_1.ipynb 
+  218  git commit
+  219  ls -la
+  220  git add .
+  221  git commit
+  222  mkdir junyper
+  223  cd junyper/
+  224  ls
+  225  git init$ git init
+  226  git commit -m "some message goes here"
+  227   git clone https://emmap1@bitbucket.org/emmap1/bitbucketstationlocations.git 
+  228  git clone https://github.com/Robby0007/as9.git
+  229  ls
+  230  cd as9/
+  231  ls
+  232  cd ..
+  233  cd ..
+  234  ls
+  235  cp CA_practise_1.ipynb ./jupyter/
+  236  cp CA_practise_1.ipynb ./jupyter/as9
+  237  cd ju
+  238  cd jupyter
+  239  ls
+  240  cd ..
+  241  ls
+  242  mkdir new_repo
+  243  cd new_repo/
+  244  ls
+  245  git init
+  246  git clone https://github.com/Robby0007/as9.git
+  247  ls
+  248  cdas9
+  249  cd as9
+  250  ls
+  251  cd ..
+  252  cd ..
+  253  ls
+  254  cp CA_practise_1.ipynb ./new_repo/as9/
+  255  cd new_repo/
+  256  cd as9/
+  257  ls
+  258  git add CA_practise_1.ipynb 
+  259  git status
+  260  git commit -m 'Initial commit' 
+  261  git push origin master
+  262  ls
+  263  ls -la
+  264  cat .gitignore 
+  265  cat README.md 
+  266  cat .git
+  267  mkdir test
+  268  git add test/
+  269  git commit -m 'Initial commit' 
+  270  git push origin master
+  271  history
+  272  history > clone into new repo
+  273  history > new_repo.txt
