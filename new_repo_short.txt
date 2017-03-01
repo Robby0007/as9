@@ -1,0 +1,102 @@
+Admin@Admin-PC ~
+$ mkdir new_repo
+
+Admin@Admin-PC ~
+$ cd new_repo/
+
+Admin@Admin-PC ~/new_repo
+$ ls
+
+Admin@Admin-PC ~/new_repo
+$ git init
+Initialized empty Git repository in C:/cygwin64/home/Admin/new_repo/.git/
+
+Admin@Admin-PC ~/new_repo
+$ git clone https://github.com/Robby0007/as9.git
+Cloning into 'as9'...
+remote: Counting objects: 9, done.
+remote: Total 9 (delta 0), reused 0 (delta 0), pack-reused 9
+Unpacking objects: 100% (9/9), done.
+
+Admin@Admin-PC ~/new_repo
+$ ls
+as9
+
+Admin@Admin-PC ~/new_repo
+$ cdas9
+-bash: cdas9: command not found
+
+Admin@Admin-PC ~/new_repo
+$ cd as9
+
+Admin@Admin-PC ~/new_repo/as9
+$ ls
+fir.ipynb  README.md
+
+Admin@Admin-PC ~/new_repo/as9
+$ cd ..
+
+Admin@Admin-PC ~/new_repo
+$ cd ..
+
+Admin@Admin-PC ~
+$ ls
+ CA_practise_1.ipynb                  'lab_07_apache_log_files(1).ipynb'
+ fir.ipynb                             lab_09.ipynb
+ FirstClass.ipynb                     'Lab_two(1)(1).ipynb'
+'from my doc'                          Lab10_exercises.ipynb
+ junyper                               Lab12
+ jup                                  'Lab7 Classes plus more (1).ipynb'
+ Jupyter                              'Lab7 Classes plus more.ipynb'
+'Jupyter Intro(1).ipynb'               lab7_fileIO.ipynb
+'Lab_03_average(1).ipynb'             'New folder (3)'
+'lab_05_data_structures(2)(1).ipynb'   new_repo
+'lab_06_data_structures(1).ipynb'
+
+Admin@Admin-PC ~
+$ cp CA_practise_1.ipynb ./new_repo/as9/
+
+Admin@Admin-PC ~
+$ cd new_repo/
+
+Admin@Admin-PC ~/new_repo
+$ cd as9/
+
+Admin@Admin-PC ~/new_repo/as9
+$ ls
+CA_practise_1.ipynb  fir.ipynb  README.md
+
+Admin@Admin-PC ~/new_repo/as9
+$ git add CA_practise_1.ipynb
+warning: LF will be replaced by CRLF in CA_practise_1.ipynb.
+The file will have its original line endings in your working directory.
+
+Admin@Admin-PC ~/new_repo/as9
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   CA_practise_1.ipynb
+
+
+Admin@Admin-PC ~/new_repo/as9
+$ git commit -m 'Initial commit'
+[master 445f10f] Initial commit
+ 1 file changed, 3789 insertions(+)
+ create mode 100644 CA_practise_1.ipynb
+
+Admin@Admin-PC ~/new_repo/as9
+$ git push origin master
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 6.87 KiB | 0 bytes/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/Robby0007/as9.git
+   03c9f39..445f10f  master -> master
+
+Admin@Admin-PC ~/new_repo/as9
+$ ls
+CA_practise_1.ipynb  fir.ipynb  README.md
