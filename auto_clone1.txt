@@ -1,0 +1,10 @@
+mkdir new_repo_2
+cd new_repo_2
+git init
+git clone https://github.com/Robby0007/as9.git
+cd as9
+git add auto_clone.txt
+git status
+git commit -m 'Initial commit'
+git push origin master
+
